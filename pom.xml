@@ -23,7 +23,7 @@
       <url>http://localhost:8081/repository/maven-group/</url>
     </repository>
   </repositories>
-
+ <!-- ajouter commentaire-->
   <distributionManagement>
     <snapshotRepository>
       <id>nexus-snapshots</id>
