@@ -25,6 +25,7 @@
   </repositories>
   <!-- ajouter commentaire-->
   <!-- ajouter commentaire 2-->
+  <!-- ajouter commentaire 3-->
   <distributionManagement>
     <snapshotRepository>
       <id>nexus-snapshots</id>
